@@ -1,4 +1,6 @@
 # sockethub-schemas
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sockethub/sockethub-schemas.svg)](https://greenkeeper.io/)
 Sockethub AS2.0 and other JSON schemas
 
 ## usage
